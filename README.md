@@ -45,3 +45,16 @@ El primer componente contiene todo el marco referencial de la investigación, es
 El segundo componente se expone el marco metodológico que hace posible la investigación, donde se describe detalladamente las herramientas e instrumentos de recolección de información y uso de esta para el propósito propuesto.
 
 En el tercer componente se desarrolla toda la propuesta antes planteada y se cumplen con los objetivos específicos del trabajo de grado; igualmente se desarrollan las conclusiones y recomendaciones con respecto a este trabajo planteado y sus aportes a futuro.
+
+
+
+
+Nota:
+
+Para la base de datos con el nombre dataset que contiene dos carpetas internas llamadas Malignos y Benignos donde se encuentran las imágenes ubicadas en Google Drive. 
+
+	https://drive.google.com/open?id=15OmEfFf7BYqN5Ee5M6YuWyJiRlGkS6Yc
+ 
+También, se pueden descargar desde https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
+o directamente desde la base de datos https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main
+
