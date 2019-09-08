@@ -9,7 +9,7 @@ Universidad:Instituto Tecnologico Metropolitano (ITM)
 
 Medellin, Antioquia
 
-2019.
+2019
 
 RESUMEN
 
@@ -38,6 +38,10 @@ En el trabajo se realiza, basados en una arquitectura de Redes Neuronales Convol
 
 Organización del Trabajo
 
-El presente informe se fragmenta en tres componentes. El primer componente contiene todo el marco referencial de la investigación, es decir las teorías que se han desarrollado con respecto al aprendizaje profundo y algunos conceptos relacionados con los impactos entre la tecnología y la medicina.
+El presente informe se fragmenta en tres componentes. 
+
+El primer componente contiene todo el marco referencial de la investigación, es decir las teorías que se han desarrollado con respecto al aprendizaje profundo y algunos conceptos relacionados con los impactos entre la tecnología y la medicina.
+
 El segundo componente se expone el marco metodológico que hace posible la investigación, donde se describe detalladamente las herramientas e instrumentos de recolección de información y uso de esta para el propósito propuesto.
+
 En el tercer componente se desarrolla toda la propuesta antes planteada y se cumplen con los objetivos específicos del trabajo de grado; igualmente se desarrollan las conclusiones y recomendaciones con respecto a este trabajo planteado y sus aportes a futuro.
