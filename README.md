@@ -2,8 +2,11 @@
 RECONOCIMIENTO DE MALIGNIDAD DE LUNARES EN IMÁGENES MÉDICAS UTILIZANDO APRENDIZAJE PROFUNDO
 
 Autor:Diego Mauricio Zapata
+
 Ingeniería Electrónica
+
 Universidad:Instituto Tecnologico Metropolitano (ITM)
+
 Medellin, Antioquia
 2019.
 
